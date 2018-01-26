@@ -1,0 +1,10 @@
+/home/deivid/Documents/hub/Identity/src/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.deps.json
+/home/deivid/Documents/hub/Identity/src/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.json
+/home/deivid/Documents/hub/Identity/src/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.runtimeconfig.dev.json
+/home/deivid/Documents/hub/Identity/src/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.dll
+/home/deivid/Documents/hub/Identity/src/IdentityServer/bin/Debug/netcoreapp2.0/IdentityServer.pdb
+/home/deivid/Documents/hub/Identity/src/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.csproj.CoreCompileInputs.cache
+/home/deivid/Documents/hub/Identity/src/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfoInputs.cache
+/home/deivid/Documents/hub/Identity/src/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.AssemblyInfo.cs
+/home/deivid/Documents/hub/Identity/src/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.dll
+/home/deivid/Documents/hub/Identity/src/IdentityServer/obj/Debug/netcoreapp2.0/IdentityServer.pdb

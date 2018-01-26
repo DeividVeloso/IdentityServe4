@@ -1,0 +1,10 @@
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/obj/Debug/netcoreapp2.0/Console.ClientUI.csproj.CoreCompileInputs.cache
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/obj/Debug/netcoreapp2.0/Console.ClientUI.AssemblyInfoInputs.cache
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/obj/Debug/netcoreapp2.0/Console.ClientUI.AssemblyInfo.cs
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/bin/Debug/netcoreapp2.0/Console.ClientUI.deps.json
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/bin/Debug/netcoreapp2.0/Console.ClientUI.runtimeconfig.json
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/bin/Debug/netcoreapp2.0/Console.ClientUI.runtimeconfig.dev.json
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/bin/Debug/netcoreapp2.0/Console.ClientUI.dll
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/bin/Debug/netcoreapp2.0/Console.ClientUI.pdb
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/obj/Debug/netcoreapp2.0/Console.ClientUI.dll
+/home/deivid/Documents/hub/Identity/src/Console.ClientUI/obj/Debug/netcoreapp2.0/Console.ClientUI.pdb

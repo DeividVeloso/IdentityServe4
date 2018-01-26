@@ -1,0 +1,10 @@
+/home/deivid/Documents/hub/Identity/src/API.User/obj/Debug/netcoreapp2.0/API.User.csproj.CoreCompileInputs.cache
+/home/deivid/Documents/hub/Identity/src/API.User/obj/Debug/netcoreapp2.0/API.User.AssemblyInfoInputs.cache
+/home/deivid/Documents/hub/Identity/src/API.User/obj/Debug/netcoreapp2.0/API.User.AssemblyInfo.cs
+/home/deivid/Documents/hub/Identity/src/API.User/bin/Debug/netcoreapp2.0/API.User.deps.json
+/home/deivid/Documents/hub/Identity/src/API.User/bin/Debug/netcoreapp2.0/API.User.runtimeconfig.json
+/home/deivid/Documents/hub/Identity/src/API.User/bin/Debug/netcoreapp2.0/API.User.runtimeconfig.dev.json
+/home/deivid/Documents/hub/Identity/src/API.User/bin/Debug/netcoreapp2.0/API.User.dll
+/home/deivid/Documents/hub/Identity/src/API.User/bin/Debug/netcoreapp2.0/API.User.pdb
+/home/deivid/Documents/hub/Identity/src/API.User/obj/Debug/netcoreapp2.0/API.User.dll
+/home/deivid/Documents/hub/Identity/src/API.User/obj/Debug/netcoreapp2.0/API.User.pdb
